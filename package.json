@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.20.0"
   },
   "name": "sso-testing",
   "description": "Proyecto de express para el testing del SSO",
